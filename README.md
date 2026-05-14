@@ -23,11 +23,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a recent graduate from Lancaster University, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a SOC MAnager at CyberShadows Ltd, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m currently looking for an entry level job in cyber security and building projects for the same.
-
-- :seedling: Exploring penetration testing.
+- :seedling: Exploring security engineering.
 
 - :zap: In my free time, I solve challenges on TryHackMe and HackTheBox.
 

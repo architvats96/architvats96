@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a SOC MAnager at CyberShadows Ltd, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a SOC Manager at CyberShadows Ltd, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :seedling: Exploring security engineering.
 
